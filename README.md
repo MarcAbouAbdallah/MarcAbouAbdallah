@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋 I'm Marc Abou Abdallah</h1>
+<!-- <h1 align="center">Hi 👋 I'm Marc Abou Abdallah</h1> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Marc+Abou+Abdallah" alt="Title GitHub Readme" />
+  </a>
+</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.abouabd@gmail.com)
+
 
 ## 💫 About Me:
 - 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
 - 💼 I'm currently working at the RCMP as a programmer analyst intern, helping the Cloud team in Azure DevOps automation and building a Node.js web application.
-- 👀 I've got a particular interest in back-end development and machine learning.
+- 🎯 I've recently completed the Meta Backend Developer Certificate.
+- 👀 I'm particularly interested in back-end development and machine learning.
 - 🔎 I'm looking for a summer 2025 internship.
  
 ---
@@ -15,8 +24,8 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:marc.abouabd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.abouabd@gmail.com)
 
 ---
 
@@ -52,6 +61,7 @@
 
 **Libraries, Frameworks & Databases:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -64,6 +74,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
 <!--
