@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋 I'm Marc Abou Abdallah</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1200&pause=100&multiline=true&width=650&height=95&lines=%24+whoami;Marc+Abou+Abdallah" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1200&pause=100&multiline=true&width=650&height=100&lines=%24+whoami;Marc+Abou+Abdallah" alt="Title GitHub Readme" />
   </a>
 </h1>
 
@@ -10,6 +10,7 @@
 - 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
 - 💼 I'm currently working at the RCMP as a programmer analyst intern, helping the Cloud team in Azure DevOps automation and building a Node.js web application.
 - 🎯 I've recently completed the [Meta Back-End Developer Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FL5GDP4W5M7A).
+- 🎯 I've recently completed the <a href="https://www.coursera.org/account/accomplishments/professional-cert/FL5GDP4W5M7A" style="text-decoration: none;">Meta Back-End Developer Certificate</a>.
 - 👀 I'm particularly interested in back-end development and machine learning.
 - 🔎 I'm looking for a summer 2025 internship !
  
