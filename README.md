@@ -9,14 +9,14 @@
 ## 💫 About Me:
 - 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
 - 💼 I'm currently working at the RCMP as a programmer analyst intern, helping the Cloud team in Azure DevOps automation and building a Node.js web application.
-- 🎯 I've recently completed the Meta Backend Developer Certificate.
+- 🎯 I've recently completed the [Meta Back-End Developer Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FL5GDP4W5M7A).
 - 👀 I'm particularly interested in back-end development and machine learning.
-- 🔎 I'm looking for a summer 2025 internship.
+- 🔎 I'm looking for a summer 2025 internship !
  
 ---
 
 ## 🚀 What I'm Up To
-- 🤖 Building an AI news headlines generator that leverages web scraping and deep learning.
+- 🤖 Building an AI news headline generator that leverages web scraping and deep learning.
 - 💻 Building a Node.js Emergency Medical Service (EMS) application.
  
 ---
@@ -73,6 +73,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
+
+*From concept to execution, coding my way to innovation.*
 
 
 <!--
