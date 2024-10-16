@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋 I'm Marc Abou Abdallah</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1500&pause=100&multiline=true&width=650&height=100&lines=%24+whoami;Marc+Abou+Abdallah" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1200&pause=100&multiline=true&width=650&height=95&lines=%24+whoami;Marc+Abou+Abdallah" alt="Title GitHub Readme" />
   </a>
 </h1>
 
