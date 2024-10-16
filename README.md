@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋 I'm Marc Abou Abdallah</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 - 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
 - 💼 I'm currently working at the RCMP as a programmer analyst intern, helping the Cloud team in Azure DevOps automation and building a Node.js web application.
 - 👀 I've got a particular interest in back-end development and machine learning.
 - 🔎 I'm looking for a summer 2025 internship.
 
+&nbsp;  
+
 ## 🚀 What I'm Up To
 - 🤖 Building an AI news headlines generator that leverages web scraping and deep learning.
 - 💻 Building a Node.js Emergency Medical Service (EMS) application.
+
+&nbsp;  
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:marc.abouabd@gmail.com)
 
+&nbsp;  
+<!--
 ## 🧑‍💻 Check Out Some of My Projects
 - 🚑 [Paramedic App](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)  
   Full stack application for connecting people in need of urgent medical care with nearby paramedics in Montreal.  
@@ -27,7 +33,26 @@
   Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.  
   **Tech Stack**: Java, JavaFX, Umple, Gherkin, Cucumber
 
-# 💻 Tech Stack:
+-->
+## 🧑‍💻 Projects
+
+### 🚑 [**Paramedic App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
+*Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal.*  
+**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS
+
+
+### 🍽️ [**Restaurant App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
+*Full stack application for handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
+**Tech Stack:** Django, DRF, MySQL, HTML, CSS, JS
+
+
+### 📦 [**Warehouse App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
+*Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.*  
+**Tech Stack:** Java, JavaFX, Umple, Gherkin, Cucumber
+
+&nbsp;  
+
+## 💻 Tech Stack:
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -49,7 +74,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Other tools:** 
+**Other Tools:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
