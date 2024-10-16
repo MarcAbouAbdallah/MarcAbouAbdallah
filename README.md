@@ -6,16 +6,19 @@
 - 👀 I've got a particular interest in back-end development and machine learning.
 - 🔎 I'm looking for a summer 2025 internship.
  
+---
 
 ## 🚀 What I'm Up To
 - 🤖 Building an AI news headlines generator that leverages web scraping and deep learning.
 - 💻 Building a Node.js Emergency Medical Service (EMS) application.
  
+---
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:marc.abouabd@gmail.com)
- 
+
+---
 
 ## 🧑‍💻 Projects
 
@@ -33,6 +36,7 @@
 *Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.*  
 **Tech Stack:** Java, JavaFX, Umple, Gherkin, Cucumber
 
+---
 
 ## 💻 Tech Stack:
 **Languages:**  
