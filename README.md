@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-## 💫 About Me:
+## 💫 About Me
 - 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
 - 💼 I'm currently working at the RCMP as a programmer analyst intern, helping the Cloud team in Azure DevOps automation and building a Node.js web application.
 - 🎯 I've recently completed the [Meta Back-End Developer Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FL5GDP4W5M7A).
