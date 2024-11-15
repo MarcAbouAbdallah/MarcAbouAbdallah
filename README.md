@@ -13,10 +13,11 @@
 - 🔎 I'm looking for a summer 2025 internship !
  
 ---
-
+<!--
 ## 🚀 What I'm Up To
 - 🤖 Building an AI news headline generator that leverages web scraping and deep learning.
 - 💻 Building a Node.js Emergency Medical Service (EMS) application.
+-->
  
 ---
 
@@ -30,17 +31,17 @@
 
 ### 🚑 [**Paramedic App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
 *Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal.*  
-**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS
+**Tech Stack:** Node.js, Express.js, React, MongoDB, HTML, CSS, Socket.IO, Mapbox GL JS
 
 
 ### 🍽️ [**Restaurant App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
 *Full stack application for handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
-**Tech Stack:** Django, DRF, MySQL, HTML, CSS, JS
+**Tech Stack:** Python, Django, DRF, MySQL, HTML, CSS, JS, Djoser, unittest
 
 
 ### 📦 [**Warehouse App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
 *Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.*  
-**Tech Stack:** Java, JavaFX, Umple, Gherkin, Cucumber
+**Tech Stack:** Java, JavaFX, Gherkin, Cucumber, JUnit, Umple
 
 ---
 
