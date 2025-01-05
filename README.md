@@ -13,13 +13,6 @@
 - 🔎 I'm looking for a summer 2025 internship !
  
 ---
-<!--
-## 🚀 What I'm Up To
-- 🤖 Building an AI news headline generator that leverages web scraping and deep learning.
-- 💻 Building a Node.js Emergency Medical Service (EMS) application.
-
----
--->
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
@@ -30,8 +23,8 @@
 ## 🧑‍💻 Projects
 
 ### 🚑 [**Paramedic App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
-*Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal.*  
-**Tech Stack:** Node.js, Express.js, React, MongoDB, HTML, CSS, Socket.IO, Mapbox GL JS
+*Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal.* **[Demo Video!] (https://youtu.be/OSspQKkfC3A)**
+**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JS, Socket.IO, Mapbox GL JS, JWT
 
 
 ### 🍽️ [**Restaurant App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
