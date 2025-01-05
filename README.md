@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 - 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
-- 💼 I'm currently working at the RCMP as a programmer analyst intern, helping the Cloud team in Azure DevOps automation and building a Node.js web application.
+- 💼 I recently completed an internship as a Programmer Analyst at the RCMP, contributing to cloud and network automation as well as web development.
 - 🎯 I've recently completed the [Meta Back-End Developer Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FL5GDP4W5M7A).
 - 👀 I'm particularly interested in back-end development and machine learning.
 - 🔎 I'm looking for a summer 2025 internship !
@@ -30,11 +30,13 @@
 
 ### 🍽️ [**Restaurant App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
 *Full stack application for handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
+
 **Tech Stack:** Python, Django, DRF, MySQL, HTML, CSS, JS, Djoser, unittest
 
 
 ### 📦 [**Warehouse App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
 *Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.*  
+
 **Tech Stack:** Java, JavaFX, Gherkin, Cucumber, JUnit, Umple
 
 ---
