@@ -23,7 +23,7 @@
 ## 🧑‍💻 Projects
 
 ### 🚑 [**Paramedic App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
-*Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal.* **[Demo Video!](https://youtu.be/OSspQKkfC3A)**
+*Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal**[(Demo Video)](https://youtu.be/OSspQKkfC3A)**.*
 **Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JS, Socket.IO, Mapbox GL JS, JWT
 
 
