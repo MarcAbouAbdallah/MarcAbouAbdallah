@@ -22,19 +22,19 @@
 
 ## 🧑‍💻 Projects
 
-### 🚑 [**Paramedic App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
+### 🚑 [**Emergency Medical Service App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
 *Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal* **[(Demo Video)](https://youtu.be/OSspQKkfC3A)**
 
 **Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JS, Socket.IO, Mapbox GL JS, JWT
 
 
-### 🍽️ [**Restaurant App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
+### 🍽️ [**Restaurant Management App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
 *Full stack application for handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
 
 **Tech Stack:** Python, Django, DRF, MySQL, HTML, CSS, JS, Djoser, unittest
 
 
-### 📦 [**Warehouse App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
+### 📦 [**Warehouse Operations App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
 *Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.*  
 
 **Tech Stack:** Java, JavaFX, Gherkin, Cucumber, JUnit, Umple
