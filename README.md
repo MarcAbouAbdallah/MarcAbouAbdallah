@@ -25,20 +25,24 @@
 
 ## 🧑‍💻 Projects
 
-### 🚑 [**Emergency Medical Service App**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
-*Full stack application connecting people in need of urgent medical care with nearby paramedics in Montreal* **[(Demo Video)](https://youtu.be/OSspQKkfC3A)**
+### 🚑 [**Emergency Medical Service**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
+*Connecting people in need of urgent medical care with nearby paramedics in Montreal* **[(Demo Video)](https://youtu.be/OSspQKkfC3A)**
 
 **Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JS, Socket.IO, Mapbox GL JS, JWT
 
+### 🎲 [**Board Game Hub**](https://github.com/MarcAbouAbdallah/BoardGameHub)
+*Managing board game sharing, borrowing requests, event registration, and game reviews within a local community* **[(Demo Video)](https://youtu.be/e_8VzxI1lhE)**
+
+**Tech Stack:** Java (Spring Boot), TypeScript, Vue.js, PostgreSQL, Tailwind CSS, JUnit
 
 ### 🍽️ [**Restaurant Management App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
-*Full stack application for handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
+*Handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
 
 **Tech Stack:** Python, Django, DRF, MySQL, HTML, CSS, JS, Djoser, unittest
 
 
 ### 📦 [**Warehouse Operations App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
-*Full stack application for managing warehouse inventory, shipment orders, and client-staff interactions.*  
+*Managing warehouse inventory, shipment orders, and client-staff interactions.*  
 
 **Tech Stack:** Java, JavaFX, Gherkin, Cucumber, JUnit, Umple
 
@@ -49,19 +53,25 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logoColor=white)
 
 **Libraries, Frameworks & Databases:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
