@@ -1,118 +1,78 @@
-<!-- <h1 align="center">Hi 👋 I'm Marc Abou Abdallah</h1> -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1200&pause=100&multiline=true&width=650&height=100&lines=%24+whoami;Marc+Abou+Abdallah" alt="Title GitHub Readme" />
+  <a href="https://marcabouabdallah.github.io" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=1200&pause=100&multiline=true&width=650&height=100&lines=%24+whoami;Marc+Abou+Abdallah" alt="$ whoami — Marc Abou Abdallah" />
   </a>
 </h1>
 
-<!--
-## 💫 About Me
-- 🎓 I'm a third-year software engineering student at McGill University. I have a 3.96/4.0 CGPA and I'm on the Dean's List.
-- 💼 I recently completed an internship as a Programmer Analyst at the RCMP, contributing to cloud and network automation as well as web development.
-- 🎯 I've recently completed the [Meta Back-End Developer Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FL5GDP4W5M7A).
-- 👀 I'm particularly interested in back-end development and machine learning.
-- 🔎 I'm looking for a summer 2025 internship !
--->
+<p align="center">
+  <a href="https://marcabouabdallah.github.io">
+    <img src="assets/profile-card.png" width="880"
+         alt="Education: Software Engineering, B.Eng. Co-op, McGill University, 2027. CGPA 3.97 out of 4.00, Dean's Honour List. Previously interned at NVIDIA, Autodesk, dormakaba and the RCMP, in Montreal and the San Francisco Bay Area. Building at the intersection of cloud infrastructure, distributed systems and agentic AI." />
+  </a>
+</p>
 
- 
----
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcabouabdallah/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.abouabd@gmail.com)
-
----
-
-## 🧑‍💻 Projects
-
-### 🚑 [**Emergency Medical Service**](https://github.com/MarcAbouAbdallah/Node.js-Paramedic-App)
-*Connecting people in need of urgent medical care with nearby paramedics in Montreal* **[(Demo Video)](https://youtu.be/OSspQKkfC3A)**
-
-**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JS, Socket.IO, Mapbox GL JS, JWT
-
-### 🎲 [**Board Game Hub**](https://github.com/MarcAbouAbdallah/BoardGameHub)
-*Managing board game sharing, borrowing requests, event registration, and game reviews within a local community* **[(Demo Video)](https://youtu.be/e_8VzxI1lhE)**
-
-**Tech Stack:** Java (Spring Boot), TypeScript, Vue.js, PostgreSQL, Tailwind CSS, JUnit
-
-### 🍽️ [**Restaurant Management App**](https://github.com/MarcAbouAbdallah/Django-Restaurant-App)
-*Handling restaurant operations such as menu item management, delivery orders, table bookings, and staff (managers, delivery crew) administration.*  
-
-**Tech Stack:** Python, Django, DRF, MySQL, HTML, CSS, JS, Djoser, unittest
-
-### 📦 [**Warehouse Operations App**](https://github.com/MarcAbouAbdallah/Java-Warehouse-App)
-*Managing warehouse inventory, shipment orders, and client-staff interactions.*  
-
-**Tech Stack:** Java, JavaFX, Gherkin, Cucumber, JUnit, Umple
+<p align="center">
+  <a href="https://marcabouabdallah.github.io"><img src="https://img.shields.io/badge/%20Portfolio%20-2FE3E8?style=for-the-badge&logo=googlechrome&logoColor=04060B&labelColor=2FE3E8" alt="Portfolio" height="34" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marcabouabdallah/"><img src="https://img.shields.io/badge/%20LinkedIn%20-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8%2BPHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjIiIHk9IjkiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg%3D%3D&labelColor=0A66C2" alt="LinkedIn" height="34" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:marc.abouabd@gmail.com"><img src="https://img.shields.io/badge/%20Email%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="34" /></a>
+</p>
 
 ---
 
-## 💻 Tech Stack:
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+</p>
 
-**Libraries, Frameworks & Databases:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![unittest](https://img.shields.io/badge/unittest-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8A6343?style=for-the-badge&logo=mocha&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<h3 align="center">Cloud &amp; Infrastructure</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE3LjUgMTlIOWE3IDcgMCAxIDEgNi43MS05aDEuNzlhNC41IDQuNSAwIDEgMSAwIDlaIi8%2BPC9zdmc%2B" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE3LjUgMTlIOWE3IDcgMCAxIDEgNi43MS05aDEuNzlhNC41IDQuNSAwIDEgMSAwIDlaIi8%2BPC9zdmc%2B" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-**Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/S3-%23DD344C.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F91?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<h3 align="center">Frameworks &amp; Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8%2BPHBhdGggZD0iTTMgNXYxNGE5IDMgMCAwIDAgMTggMFY1Ii8%2BPHBhdGggZD0iTTMgMTJhOSAzIDAgMCAwIDE4IDAiLz48L3N2Zz4%3D" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
 
-**Other Tools:**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235a5a5a.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-1E90FF?style=for-the-badge)
-
+<h3 align="center">AI &amp; Developer Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0ibTQgMTcgNi02LTYtNiIvPjxwYXRoIGQ9Ik0xMiAxOWg4Ii8%2BPC9zdmc%2B" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor-0F172A?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
 
 ---
 
-*From concept to execution, coding my way to innovation.*
-
-
-<!--
-**MarcAbouAbdallah/MarcAbouAbdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>From concept to execution, coding my way to innovation.</i></p>
