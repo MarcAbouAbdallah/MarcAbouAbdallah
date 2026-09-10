@@ -6,8 +6,12 @@
 
 <p align="center">
   <a href="https://marcabouabdallah.github.io">
-    <img src="assets/profile-card.png" width="880"
-         alt="Education: Software Engineering, B.Eng. Co-op, McGill University, 2027. CGPA 3.97 out of 4.00, Dean's Honour List. Previously interned at NVIDIA, Autodesk, dormakaba and the RCMP, in Montreal and the San Francisco Bay Area. Building at the intersection of cloud infrastructure, distributed systems and agentic AI." />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="assets/profile-card-light.png">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/profile-card.png">
+      <img src="assets/profile-card.png" width="880"
+           alt="Education: Software Engineering, B.Eng. Co-op, McGill University, 2027. CGPA 3.97 out of 4.00, Dean's Honour List. Previously interned at NVIDIA, Autodesk, dormakaba and the RCMP, in Montreal and the San Francisco Bay Area. Building at the intersection of cloud infrastructure, distributed systems and agentic AI." />
+    </picture>
   </a>
 </p>
 
